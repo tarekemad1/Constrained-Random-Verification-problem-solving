@@ -1,0 +1,1 @@
+8. Constraint to generate 0, 1, x and z randomly.
