@@ -13,7 +13,10 @@ program pr5;
         function void display;
             $display("size of generated array =%0d",arr.size());
             foreach (arr[i]) begin
-                $display("value[%0d]=%0d",i,arr[i]);
+                if(i%2)
+                    $display("value[%0d]=%0d    (EVEN) ",i,arr[i]);
+                else
+                    $display("value[%0d]=%0d    (ODD) ",i,arr[i]);
             end
         endfunction
     endclass
