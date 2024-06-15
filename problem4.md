@@ -1,0 +1,1 @@
+Derive odd numbers within the range of 10 to 30 using SV constraint.
