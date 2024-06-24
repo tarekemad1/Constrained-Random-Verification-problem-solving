@@ -1,0 +1,1 @@
+13. Constraint - for 0-100 range 70% and for 101-255 range 30%
