@@ -1,0 +1,1 @@
+ Generate unique values without using rand or randc.
