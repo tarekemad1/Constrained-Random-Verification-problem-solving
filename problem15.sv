@@ -4,6 +4,10 @@ program pr15;
          int unsigned q[$];
         constraint values{
             arr.size()==10 ;
+            foreach (arr[i]) {
+             arr[i]<200;
+             arr[i]>10 ; 
+            }
 
         }
         function void  post_randomize();
