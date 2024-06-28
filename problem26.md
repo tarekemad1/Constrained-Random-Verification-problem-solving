@@ -1,0 +1,1 @@
+26. Write a constraint to generate multiples of power 2
